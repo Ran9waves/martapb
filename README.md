@@ -1,6 +1,6 @@
 ### Hi there! 👋
 I used to be a UX designer that transitioned to a more techie career and currently I am interested in: 
- 🌱 Increasing my knowledge about cyber security and code (the basics)
+- 🌱 Increasing my knowledge about cyber security and code (the basics)
 - 👯 I’m looking forward to collaborate on new projects that allow me to grow as a professional. 
 
 <!--
